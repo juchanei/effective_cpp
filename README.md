@@ -1,7 +1,7 @@
 # Effective C++
 Scott Meyers의 Effective C++를 정리한 글입니다. C++ 개발자를 위한 필독 도서로, 자세한하고 정확한 내용은 책(http://www.yes24.com/Product/Goods/17525589?OzSrank=3)을 구입해서 읽는 것이 더 좋습니다.
 ## Index
-01. [c++를 언어들의 연합체로 바라보는 안목은 필수](docs/ch01.md)
+01. [C++를 언어들의 연합체로 바라보는 안목은 필수](docs/ch01.md)
 02. [#define을 쓰려거든 const enum inline을 떠올리자](docs/ch02.md)
 03. 낌새만 보이면 const를 들이대 보자!
 04. [객체를 사용하기 전에 반드시 그 객체를 초기화하자](docs/ch04.md)
